@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/windows_cloud_consul_client/windows_cloud_consul_client.iml" filepath="$PROJECT_DIR$/windows_cloud_consul_client/windows_cloud_consul_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows_cloud_consul_server/windows_cloud_consul_server.iml" filepath="$PROJECT_DIR$/windows_cloud_consul_server/windows_cloud_consul_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows_cloud_consul_server02/windows_cloud_consul_server02.iml" filepath="$PROJECT_DIR$/windows_cloud_consul_server02/windows_cloud_consul_server02.iml" />
+    </modules>
+  </component>
+</project>
