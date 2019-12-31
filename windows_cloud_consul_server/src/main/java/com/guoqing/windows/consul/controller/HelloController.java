@@ -1,4 +1,4 @@
-package com.guoqing.windows.consul.resttemplate.controller;
+package com.guoqing.windows.consul.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
